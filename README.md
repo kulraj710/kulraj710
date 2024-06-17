@@ -12,8 +12,11 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<!--   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a> -->
+<img src="https://github.com/kulraj710/kulraj710/assets/75951205/f79587d9-cefd-47d3-9d52-ed282aaa7f6c" alt="banner" />
+<!-- ![image](https://github.com/kulraj710/kulraj710/assets/75951205/f79587d9-cefd-47d3-9d52-ed282aaa7f6c) -->
+
 </div>
 
 
