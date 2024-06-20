@@ -31,7 +31,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, Django, ReactJS, Java, Odoo ERP, Project Management**
 
-- 🌱 I’m currently learning **cloud development and Project management**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 Feel free to reach me out **kulrajchavda@gmail.com**
 
