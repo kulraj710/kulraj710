@@ -30,9 +30,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Django, ReactJS, Java, Odoo ERP, Project Management**
+- 🔭 I’m currently working on **Option-Pricing Project**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning about **Quant Finance**
 
 - 📫 Feel free to reach me out **kulrajchavda@gmail.com**
 
