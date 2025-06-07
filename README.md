@@ -30,9 +30,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Option-Pricing Project**
+- 🔭 I’m currently working on **Portfolio Tracker with built in AI copilot**
 
-- 🌱 I’m currently learning about **Quant Finance**
+- 🌱 I’m currently learning about **Finance**
 
 - 📫 Feel free to reach me out **kulrajchavda@gmail.com**
 
